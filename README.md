@@ -1,4 +1,4 @@
-# kde-systemtray-rearrange
+# How to rearrange the KDE Plasma systemtray
 Simple hack and way to rearrange the KDE Plasma systemtray
 
 ### 1. Create multiple system trays for each icons you want to rearrange
