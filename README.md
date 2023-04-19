@@ -1,5 +1,5 @@
 # How to rearrange the KDE Plasma systemtray
-Simple hack and way to rearrange the KDE Plasma systemtray
+Simple workaround to rearrange the KDE Plasma systemtray
 
 > **NOTE**: File `main.qml` in repository contains some width changes for icons for my look and feel.
 
